@@ -1,10 +1,24 @@
 # Tomodachi
 Replacement for Skype
 
-Features: Voice calls, video calls, group calls (30+ users), file sharing, user accounts.
-Security: End-to-end encryption, anti-hacking measures against skilled attackers.
-Beginner-Friendly: Simple tools, lots of guidance, and pre-built pieces where practical.
-Group Size: Over 30 means we’ll need a server-based approach (SFU) instead of mesh for group calls.
+Features: 
+Voice calls, 
+video calls, 
+group calls (30+ users), 
+file sharing, 
+user accounts.
+
+Security: 
+End-to-end encryption, 
+anti-hacking measures against skilled attackers.
+
+Beginner-Friendly: 
+Simple tools, 
+lots of guidance, 
+and pre-built pieces where practical.
+
+Group Size: 
+Over 30 means we’ll need a server-based approach (SFU) instead of mesh for group calls.
 Simplified Tech Stack
 Frontend
 React: Web-based to start (easier for beginners than mobile). We’ll use Create React App.
